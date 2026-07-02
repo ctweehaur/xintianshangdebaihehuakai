@@ -1,3 +1,7 @@
+// ==========================================================================
+// 📝 选择题题库（纯 ASCII 编码、GitHub 部署强兼容版） - questions.js
+// ==========================================================================
+
 const quizDataList = [
     {
         id: 1,
@@ -33,7 +37,7 @@ const quizDataList = [
             "D 向杂草乞求友谊。"
         ],
         answer: "B",
-        teacherAnalysis: "考查对人物（拟人化）应对挫折心理的理解，体现了坚持自我的核心价值。"
+        teacherAnalysis: "考查人物应对压力的应对机制，体现了坚持自我的核心教育价值。"
     },
     {
         id: 4,
@@ -45,7 +49,7 @@ const quizDataList = [
             "D 结出了许多的果实。"
         ],
         answer: "B",
-        teacherAnalysis: "直接考查结局，考察学生对故事叙事逻辑的掌握。"
+        teacherAnalysis: "直接考查结局，考察学生对故事叙事逻辑的把握。"
     },
     {
         id: 5,
@@ -57,7 +61,7 @@ const quizDataList = [
             "D 因为它有特殊肥料。"
         ],
         answer: "B",
-        teacherAnalysis: "考查心理描写，体现自我认同与信念的力量。"
+        teacherAnalysis: "考查心理描写与自我认同，体现了自我肯定的重要性。"
     },
     {
         id: 6,
@@ -81,11 +85,11 @@ const quizDataList = [
             "D 它在进行光合作用。"
         ],
         answer: "C",
-        teacherAnalysis: "考查细节动作，将“默默吸收”上升为“目标导向”的努力。"
+        teacherAnalysis: "考查对细节行为的深层含义理解，将“吸收”动作上升为“奋斗”。"
     },
     {
         id: 8,
-        question: "“山谷里最美丽的花”说明了什么？",
+        question: "山谷里最美丽的花说明了什么？",
         options: [
             "A 证明它的努力很成功。",
             "B 它是山谷唯一品种。",
@@ -93,7 +97,7 @@ const quizDataList = [
             "D 环境保护得非常好。"
         ],
         answer: "A",
-        teacherAnalysis: "考查对结局的评价，百合的美是努力换来的，而非天生。"
+        teacherAnalysis: "考察学生对结果的评价，将花的美与努力挂钩。"
     },
     {
         id: 9,
@@ -105,11 +109,11 @@ const quizDataList = [
             "D 被路人及时发现它。"
         ],
         answer: "B",
-        teacherAnalysis: "考查反向推理，引导学生理解“证明自己”需要付出行动。"
+        teacherAnalysis: "考查反向思考与假设推论，深化对主旨的理解。"
     },
     {
         id: 10,
-        question: "“百合花花蕾与杂草一模一样。”上面句子采用了什么修辞手法？",
+        question: "百合花花蕾与杂草一模一样。上面句子采用了什么修辞手法？",
         options: [
             "A 对比和比喻修辞。",
             "B 夸张和拟人修辞。",
